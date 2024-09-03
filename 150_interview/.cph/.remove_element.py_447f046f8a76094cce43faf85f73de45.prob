@@ -1,0 +1,1 @@
+{"name":"Local: remove_element","url":"d:\\sourceCode\\Python\\python_leetcode\\150_interview\\remove_element.py","tests":[{"id":1725290533624,"input":"3 2 2 3\n3","output":"2 2 _ _"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sourceCode\\Python\\python_leetcode\\150_interview\\remove_element.py","group":"local","local":true}
